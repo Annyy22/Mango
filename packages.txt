@@ -1,10 +1,2 @@
-Mango/
-├── app.py
-├── config.py
-├── requirements.txt
-├── packages.txt
-├── models/
-├── modules/
-├── services/
-├── training/
-└── ui/
+libgl1
+libglib2.0-0

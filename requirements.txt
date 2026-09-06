@@ -10,3 +10,4 @@ ultralytics
 reportlab
 plotly
 av
+streamlit-webrtc

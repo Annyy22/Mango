@@ -1,0 +1,10 @@
+Mango/
+├── app.py
+├── config.py
+├── requirements.txt
+├── packages.txt
+├── models/
+├── modules/
+├── services/
+├── training/
+└── ui/

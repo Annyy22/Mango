@@ -8,3 +8,4 @@ scikit-learn
 tensorflow
 ultralytics
 reportlab
+plotly
